@@ -1,1 +1,2 @@
 # Kushal-Kheti
+Crop yield management systems optimize agricultural productivity through data-driven approaches. These systems employ technologies like remote sensing, IoT, and AI to monitor soil conditions, weather patterns, and crop health. Existing systems include FarmLogs, Climate FieldView, and John Deere Operations Center, streamlining farming processes for improved yields and sustainability.
